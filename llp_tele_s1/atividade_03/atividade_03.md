@@ -2,34 +2,34 @@
 
 [] - A
 [] - B
-[] - C
+[x] - C
 [] - D
 
 
 2. Qual é a sintaxe correta para declarar uma variável chamada `idade` do tipo `int`?
 
-[] - A
+[x] - A
 [] - B
 [] - C
 [] - D
 
 3. Qual operador é usado para atribuir um valor a uma variável em C?
 
-[] - A
+[x] - A
 [] - B
 [] - C
 [] - D
 
 4. Qual dos seguintes operadores realiza uma multiplicação em C?
 
-[] - A
+[x] - A
 [] - B
 [] - C
 [] - D
 
 5. O que o operador `%` faz em C?
 
-[] - A
+[x] - A
 [] - B
 [] - C
 [] - D
@@ -37,14 +37,14 @@
 6. Qual operador é usado para comparar se dois valores são iguais em C?
 
 [] - A
-[] - B
+[x] - B
 [] - C
 [] - D
 
 7. Qual operador lógico é usado para verificar se pelo menos uma das condições é verdadeira?
 
 [] - A
-[] - B
+[x] - B
 [] - C
 [] - D
 
@@ -52,12 +52,12 @@
 
 [] - A
 [] - B
-[] - C
+[x] - C
 [] - D
 
 9. Qual operador é usado para deslocar bits para a esquerda em C?
 
-[] - A
+[x] - A
 [] - B
 [] - C
 [] - D
@@ -65,7 +65,7 @@
 10. Qual operador é usado para deslocar bits para a direita em C?
 
 [] - A
-[] - B
+[x] - B
 [] - C
 [] - D
 
