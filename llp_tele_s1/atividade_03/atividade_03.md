@@ -1,9 +1,9 @@
 1. Qual dos seguintes tipos de variáveis em C pode armazenar números inteiros?
 
-- [] - A
-- [] - B
-C - [x]
-- [] - D
+- [0] - A
+- [0] - B
+- [x] - C
+- [0] - D
 
 
 2. Qual é a sintaxe correta para declarar uma variável chamada `idade` do tipo `int`?
